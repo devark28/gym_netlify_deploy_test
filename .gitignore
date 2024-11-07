@@ -1,2 +1,2 @@
-
-.abcmn
+# ignore .abcmn directory
+.abcmn/
